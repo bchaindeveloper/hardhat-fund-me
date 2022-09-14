@@ -7,9 +7,9 @@ import "./PriceConverter.sol";
 // Error codes
 // 3. Interfaces, Libraries, Contracts
 error FundMe__NotOwner();
-
+ 
 /**@title A sample Funding Contract
- * @author BChainDeveloper
+ * @author Patrick Collins
  * @notice This contract is for creating a sample funding contract
  * @dev This implements price feeds as our library
  */
@@ -24,7 +24,7 @@ contract FundMe {
     mapping(address => uint256) private s_addressToAmountFunded;
     AggregatorV3Interface private s_priceFeed;
 
-    // Events
+    // Events (we have none!)
 
     // Modifiers
     modifier onlyOwner() {
