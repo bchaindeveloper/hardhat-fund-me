@@ -25,5 +25,13 @@
   "dependencies": {
     "alchemy-sdk": "^2.0.4",
     "dotenv": "^16.0.2"
+  },
+  "scripts": {
+    "test": "hardhat test",
+    "test:staging": "hardhat test --network rinkeby",
+    "lint": "solhint 'contracts/*.sol'",
+    "lint:fix": "solhint 'contracts/**/*.sol' --fix",
+    "format": "prettier --write .",
+    "coverage": "hardhat coverage"
   }
 }
