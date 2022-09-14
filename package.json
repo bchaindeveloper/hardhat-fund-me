@@ -1,5 +1,6 @@
 {
   "name": "hardhat-fund-me",
+  "author": "bchaindeveloper",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
