@@ -1,5 +1,7 @@
 # Hardhat Fund Me
 
+![Screenshot](Screenshot.png)
+
 This is a section of the Javascript Blockchain/Smart Contract FreeCodeCamp Course.
 
 *[⌨️ (10:00:48) Lesson 7: Hardhat Fund Me](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=36048s)*
