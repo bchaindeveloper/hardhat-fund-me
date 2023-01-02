@@ -46,7 +46,7 @@ This project is apart of the Hardhat FreeCodeCamp video.
 
 ```
 git clone https://github.com/bchaindeveloper/hardhat-fund-me.git
-cd hardhat-fund-me-fcc
+cd hardhat-fund-me
 yarn
 ```
 
